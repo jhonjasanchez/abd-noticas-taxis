@@ -17,11 +17,4 @@ from streamlit.logger import get_logger
 
 LOGGER = get_logger(__name__)
 
-
-def run():
-    st.set_page_config(
-        page_title="ABD - Taxis y Noticias",
-        page_icon="👋",
-    )
-
 st.write("# Bienvenidos a nuestra aplicación web! 👋")
