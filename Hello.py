@@ -24,4 +24,4 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Bienvenidos a nuestra aplicación web! 👋")
+st.write("# Bienvenidos a nuestra aplicación web! 👋")
